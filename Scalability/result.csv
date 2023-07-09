@@ -1,0 +1,8 @@
+Number of Business Chains,Number of Regulatory Blockchain,Number of Permission Chains,Regulatory relationship,Number of Oracle Nodes,Delay 1(ms),Delay 2(ms),Delay 3(ms),Average Delay(ms)
+1,1,1,1-1,3,2248,2200,2217,2221
+1,2,1,1-2,3,2456,2467,2443,2455
+2,1,1,2-1,3,3099,3046,3078,3074
+2,2,1,2-2,3,3272,3318,3251,3279
+3,2,1,3-2,5,4218,4225,4204,4216
+2,3,1,2-3,5,4377,4325,4398,4366
+3,3,1,3-3,5,5012,5053,5029,5031
